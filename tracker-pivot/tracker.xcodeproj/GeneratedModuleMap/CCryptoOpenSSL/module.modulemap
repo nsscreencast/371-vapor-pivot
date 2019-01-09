@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/ben/Desktop/tracker-pivot/.build/checkouts/crypto.git-4828202292919736460/Sources/CCryptoOpenSSL/include"
+    export *
+}
